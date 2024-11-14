@@ -29,6 +29,7 @@
     "@rainbow-me/rainbowkit": "^2.0.5",
     "@tanstack/react-query": "^5.28.8",
     "autoprefixer": "^10.4.17",
+    "caniuse-lite": "^1.0.30001680",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "eslint-config-prettier": "^9.1.0",
@@ -80,5 +81,5 @@
   },
   "resolutions": {
     "string-width": "4.2.3"
- }
+  }
 }
